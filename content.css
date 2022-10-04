@@ -1,0 +1,35 @@
+.page {
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+#article_title {
+  font-family: "Anton";
+  color: #461220;
+  font-size: 80px;
+}
+
+#intro {
+  font-family: "Anton";
+  color: #8C2F39;
+  font-size: 40px;
+}
+
+.question{
+  font-family: "Raleway";
+  color: #4C5760;
+  font-size: 20px
+}
+
+.answer{
+  font-family: "Raleway";
+  color: #4C5760;
+  font-size: 20px
+}
+
+#block_quote {
+  margin: 60px;
+  font-family: "Anton";
+  border-left: 2px solid black;
+  font-size: 50px
+}

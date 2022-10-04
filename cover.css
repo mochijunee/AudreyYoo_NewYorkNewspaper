@@ -1,0 +1,17 @@
+body {
+  background-color: #D3D0CB;
+}
+
+.cover {
+  text-align: center;
+  color: #461220;
+}
+
+#title {
+  font-family: "Roboto";
+  font-size: 170px
+}
+
+#subtitle {
+  color: #8C2F39;
+}
